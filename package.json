@@ -1,0 +1,13 @@
+{
+  "name": "typescript-design-pattern-factory-method",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only src/client-code.ts"
+  },
+  "dependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.7.4"
+  }
+}
